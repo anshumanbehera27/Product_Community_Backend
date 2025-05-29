@@ -11,7 +11,7 @@
 	<groupId>com.anshuman</groupId>
 	<artifactId>product-community-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>product-community-backend</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
